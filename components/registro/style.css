@@ -1,0 +1,35 @@
+body{
+    background: url(https://www.xtrafondos.com/wallpapers/galaxia-en-el-espacio-4052.jpg);
+    background-position: center;
+    background-size: cover;
+    justify-content: center
+}
+.container{
+    padding-top: 30px;
+    justify-content: center;
+    border: solid 1px;
+    border-color: aliceblue;
+    padding: 5%;
+    width: 40%;
+    background: url(https://i.pinimg.com/originals/84/ff/ba/84ffba4943a9bb1b1f83626a90987205.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-top: 7%;
+    
+}
+
+.titulo{
+    color: aliceblue;
+    text-align: center;
+}
+.categoria{
+    color: aliceblue;
+}
+.boton{
+    justify-content: center;
+    padding-top: 1%;
+    display: flex;
+    border: solid 1px; 
+    border-color: aliceblue;
+}
